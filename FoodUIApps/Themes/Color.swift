@@ -23,7 +23,7 @@ extension Color {
     
     //primary, secondary color
     static let primaryColor = Color(hex: "#3187b5")
-    static let primaryLightColor = Color(hex: "#339dd6")
+    static let primaryLightColor = Color(hex: "#9dd3fc")
     
     static let textFieldColor = Color(hex: "#30a4e3")
     static let starColor = Color(hex: "#e3d130")
